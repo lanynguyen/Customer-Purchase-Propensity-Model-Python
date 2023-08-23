@@ -1,8 +1,7 @@
 # Customer-Purchase-Propensity-Model-Python
 Prepared, cleaned, and explored large-scale datasets to engineer features and build a Propensity Purchase Model with Machine Learning for a smartphone company looking to personalize its marketing efforts across user segments.
 
-Business background:
-
+### Business background:
 + Client’s industry: Smart device Manufacturing
   + Sells multiple device models in different segments (release new model in yearly basis)    
   + Has a large customer base (millions customers in total)    
